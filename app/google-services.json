@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1064187522219",
+    "firebase_url": "https://alferov-cdc4e-default-rtdb.firebaseio.com",
+    "project_id": "alferov-cdc4e",
+    "storage_bucket": "alferov-cdc4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064187522219:android:61605f6dc7a1fbe9ffdbee",
+        "android_client_info": {
+          "package_name": "com.company.alferov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064187522219-cc0aavtbcl5d8hf58cpk2mbbr0mbpvg7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.alferov",
+            "certificate_hash": "fe4e9bc1c7296759fc9245eed3eb89e82f4db492"
+          }
+        },
+        {
+          "client_id": "1064187522219-i9mj3f38vt3gpj26gd81ta30vs6buqqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnggeCt525QyjOQbw7HTYzF60TDxMtxSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064187522219-i9mj3f38vt3gpj26gd81ta30vs6buqqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
